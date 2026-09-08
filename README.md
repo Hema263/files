@@ -13,8 +13,7 @@
 
 <br/>
 
-![Typing SVG](https://readme-typing-svg.demolab.com?font=Outfit&size=22&pause=1000&color=A855F7&center=true&vCenter=true&multiline=true&width=600&height=80&lines=AI+%26+Data+Science+Student+%7C+CGPA%3A+8.6;LLM+Developer+%7C+IEEE+Patent+Holder;Python+%7C+Java+%7C+SQL+%7C+Web+Dev)
-
+![Typing SVG](https://readme-typing-svg.demolab.com?font=Outfit&size=22&pause=1000&color=A855F7&center=true&vCenter=true&multiline=true&width=600&height=80&lines=AI+%26+Data+Science+Student+%7C+CGPA%3A+8.6;LLM+Developer+%7C+Python+%7C+Java+%7C+SQL;Web+Dev+%7C+Open+Source+Enthusiast)
 </div>
 
 
