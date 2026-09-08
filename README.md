@@ -56,7 +56,7 @@ A **real-time web platform** connecting surplus food donors with recipients, tac
 ### 🚦 Smart Traffic Management System
 
 An **intelligent, data-driven traffic control system** designed to dynamically reduce urban congestion.
-- Awarded an **IEEE Published Patent**
+- Awarded an **Published Patent**
 - Uses **data-driven logic** for adaptive signal management
 
 ---
